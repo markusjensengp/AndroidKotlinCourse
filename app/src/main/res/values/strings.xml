@@ -1,5 +1,4 @@
 <resources>
     <string name="app_name">UnitConverter</string>
-    <string name="result">Your length in cm:</string>
-    <string name="empty_input">Please enter a length!</string>
+    <string name="invalid_input">Make sure you enter a length and don\'t convert to the same unit</string>
 </resources>
